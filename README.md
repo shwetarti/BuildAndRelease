@@ -12,7 +12,7 @@ Build and Release Test Work
 * exporting the file or copy paste might be more difficult than to just come here and edit the file online.
 
 
-~~ We can even cancel some text which is old or mistaken ~~
+~~We can even cancel some text which is old or mistaken~~
 
 **This text is _extremely_ important**
 
