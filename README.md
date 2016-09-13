@@ -34,3 +34,7 @@ This is github link - https://github.com/shwetarti/BuildAndRelease/
 #######This is very useful link for formatting the README.md file
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+######Checkbox
+
+- [ ] for an empty checkbox
