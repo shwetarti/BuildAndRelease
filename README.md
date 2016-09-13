@@ -18,4 +18,15 @@ Build and Release Test Work
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
+###We can add links or code blocks
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+###Can add in links as needed.
+
+This is github link - https://github.com/shwetarti/BuildAndRelease/
