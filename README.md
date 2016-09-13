@@ -1,4 +1,4 @@
-Markup :  # Build and Release #
+# Build and Release #
 
 Build and Release Test Work
 
